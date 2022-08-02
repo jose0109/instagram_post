@@ -51,13 +51,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* height: 500px; */
 }
 
 .post-img > img{
     width: 500px;
-    /* object-fit: cover; */
-    /* object-position: center; */
 }
 
 .post-footer{
