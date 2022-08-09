@@ -14,7 +14,7 @@ body {
 .post {
     display: flex;
     flex-direction: column;
-    width: 500px;
+    width: 450px;
     margin: auto;
     margin: 100px auto 100px auto;
     background-color: white;
@@ -51,10 +51,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-.post-img > img{
-    width: 500px;
 }
 
 .post-footer{
